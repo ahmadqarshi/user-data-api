@@ -1,0 +1,28 @@
+# Compiled output
+dist/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
